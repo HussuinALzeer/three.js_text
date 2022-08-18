@@ -15,3 +15,5 @@ npm run dev
 npm run build
 ```
 "# three.js_text" 
+
+https://text-bice.vercel.app/
